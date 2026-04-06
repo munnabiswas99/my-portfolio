@@ -41,7 +41,7 @@ export default function Contact() {
             <p className="flex items-center gap-3">
               <FaGithub />
               <a
-                href="https://github.com/yourgithub"
+                href="https://github.com/munnabiswas99"
                 className="text-blue-600"
               >
                 GitHub
@@ -51,7 +51,7 @@ export default function Contact() {
             <p className="flex items-center gap-3">
               <FaLinkedin />
               <a
-                href="https://linkedin.com/in/yourlinkedin"
+                href="https://www.linkedin.com/in/munnabiswas99/"
                 className="text-blue-600"
               >
                 LinkedIn

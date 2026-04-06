@@ -26,7 +26,7 @@ export default function Hero() {
             transition={{ delay: 0.2 }}
             className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-4"
           >
-            MERN Stack Developer
+            Full Stack Developer
           </motion.h2>
 
           <motion.p
@@ -84,7 +84,7 @@ export default function Hero() {
           className="flex justify-center"
         >
           <img
-            src="/profile.jpg"
+            src="/src/assets/images/munna0.JPG"
             alt="Munna Biswas"
             className="w-72 md:w-80 rounded-full shadow-xl border-4 border-white"
           />
