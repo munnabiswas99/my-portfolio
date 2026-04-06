@@ -1,93 +1,122 @@
-# 👨‍💻 Munna Biswas - Portfolio
+# 👨‍💻 Munna Biswas  
+### 🚀 Full Stack (MERN) Developer  
 
-A modern and responsive personal portfolio website built to showcase my projects, skills, and experience as a **Full Stack (MERN) Developer**.
-
-This portfolio highlights my development work, technical stack, and provides a way for recruiters and collaborators to connect with me.
-
----
-
-## 🚀 Live Website
-
-🔗 **Portfolio:**  
-https://my-portfolio-orpin-pi-51.vercel.app/
-
----
-
-## 📌 About The Project
-
-This portfolio website is designed with a clean UI, smooth animations, and responsive layouts to present my work professionally.
-
-The main goal of this project is to demonstrate my ability to build modern web applications using the **MERN stack** and create a strong personal developer brand.
+<p align="center">
+  <a href="https://my-portfolio-orpin-pi-51.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐 Live Portfolio-Visit Now-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/munnabiswas99">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/munnabiswas99">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-## ✨ Features
+## ✨ About Me
 
-- Modern and responsive design
-- Dark mode support
-- Smooth animations using Framer Motion
-- Projects showcase section
-- Skills and technologies section
-- Contact page with social links
-- Downloadable CV
-- Mobile, tablet, and desktop responsive
+I’m a passionate **Full Stack (MERN) Developer** who loves building modern, scalable, and user-friendly web applications.
+
+This portfolio represents my skills, projects, and experience with a focus on:
+- Clean UI/UX ✨  
+- Smooth animations ⚡  
+- Responsive design 📱  
+- Performance 🚀  
+
+---
+
+## 🌐 Live Preview
+
+🔗 **Visit My Portfolio:**  
+👉 https://my-portfolio-orpin-pi-51.vercel.app/
 
 ---
 
-## 🛠️ Technologies Used
+## 🚀 Features
 
-### Frontend
-- React.js
-- JavaScript (ES6+)
-- Tailwind CSS
-- React Router
-
-### Libraries
-- Framer Motion
-- React Icons
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Chrome DevTools
-- Figma
-
-### Deployment
-- Vercel
+✨ Modern & Minimal UI  
+🌙 Dark Mode Support  
+⚡ Smooth Animations (Framer Motion)  
+📂 Project Showcase Section  
+🧠 Skills & Tech Stack Section  
+📄 Downloadable Resume (CV)  
+📬 Contact Section with Social Links  
+📱 Fully Responsive (Mobile, Tablet, Desktop)  
 
 ---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![React Router](https://img.shields.io/badge/React_Router-red?style=flat&logo=react-router)
+
+### 📦 Libraries
+- Framer Motion  
+- React Icons  
+
+### 🧰 Tools
+- Git & GitHub  
+- VS Code  
+- Chrome DevTools  
+- Figma  
+
+### 🚀 Deployment
+- Vercel  
 
 ---
 
 ## ⚙️ Getting Started
 
-### 1️⃣ Clone the repository
-
+### 📥 Clone the Repository
 ```bash
-git clone https://github.com/munnabiswas99/my-portfolio
+git clone https://github.com/munnabiswas99/my-portfolio.git
+```
 
-2️⃣ Go to the project directory
-cd portfolio
+### 📂 Navigate to Project
+```bash
+cd my-portfolio
+```
 
-3️⃣ Install dependencies
+### 📦 Install Dependencies
+```bash
 npm install
+```
 
-4️⃣ Run the development server
+### ▶️ Run Development Server
+```bash
 npm run dev
+```
 
-📬 Contact
+---
 
-Munna Biswas
-Full Stack (MERN) Developer
+## 📊 GitHub Stats
 
-📧 Email
-munna.dev345@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=munnabiswas99&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munnabiswas99&theme=tokyonight" />
+</p>
 
-💻 GitHub
-https://github.com/munnabiswas99
+---
 
-🔗 LinkedIn
-https://linkedin.com/in/munnabiswas99
+## 📬 Contact Me
 
-⭐ If you like this project, consider giving it a star on GitHub!
+📧 **Email:** munna.dev345@gmail.com  
+💻 **GitHub:** https://github.com/munnabiswas99  
+🔗 **LinkedIn:** https://linkedin.com/in/munnabiswas99  
+
+---
+
+## ⭐ Support
+
+If you like this project, please consider giving it a ⭐ on GitHub — it really motivates me!
+
+---
+
+<p align="center">
+  💙 Built with passion by Munna Biswas
+</p>
