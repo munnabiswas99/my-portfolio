@@ -5,7 +5,7 @@ export default function Projects() {
     {
       title: "Job Portal",
       desc: "A modern job portal that connects job seekers with employers through a smooth and responsive experience.",
-      image: "/public/images/projectThumbnails/jobPortal.png",
+      image: "/images/projectThumbnails/jobPortal.png",
       features: [
         "Dynamic job listing using React and REST APIs",
         "Secure authentication and role-based access",
@@ -19,7 +19,7 @@ export default function Projects() {
     {
       title: "News Portal",
       desc: "React-based news portal with category filtering and Firebase authentication.",
-      image: "/public/images/projectThumbnails/newsPortal.png",
+      image: "/images/projectThumbnails/newsPortal.png",
       features: [
         "Dynamic news rendering from APIs",
         "Firebase authentication with protected routes",
@@ -32,7 +32,7 @@ export default function Projects() {
     {
       title: "Book Vibe",
       desc: "A responsive application for discovering and exploring books.",
-      image: "/public/images/projectThumbnails/bookVibe.png",
+      image: "/images/projectThumbnails/bookVibe.png",
       features: [
         "Book browsing with API integration",
         "Reusable React components",
@@ -45,7 +45,7 @@ export default function Projects() {
     {
       title: "PH Tube",
       desc: "A video browsing platform with search, filtering, and sorting features.",
-      image: "/public/images/projectThumbnails/phTube.png",
+      image: "/images/projectThumbnails/phTube.png",
       features: [
         "Dynamic video loading from API",
         "Category filtering and search functionality",

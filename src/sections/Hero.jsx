@@ -84,7 +84,7 @@ export default function Hero() {
           className="flex justify-center"
         >
           <img
-            src="/public/images/munna0.JPG"
+            src="/images/munna0.JPG"
             alt="Munna Biswas"
             className="w-72 md:w-80 rounded-full shadow-xl border-4 border-white"
           />
