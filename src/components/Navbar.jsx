@@ -4,7 +4,7 @@ import { PiDevicesFill } from "react-icons/pi";
 import { HiMenu, HiX } from "react-icons/hi";
 
 export default function Navbar() {
-  const [dark, setDark] = useState(false);
+  const [dark, setDark] = useState(true);
   const [menuOpen, setMenuOpen] = useState(false);
 
   useEffect(() => {
@@ -18,7 +18,7 @@ export default function Navbar() {
         {/* Logo */}
         <div className="flex items-center gap-2 text-xl font-bold">
           <PiDevicesFill className="text-2xl text-blue-600" />
-          <span className="hidden sm:block">DevPortfolio</span>
+          <span className="hidden sm:block">MyPortfolio</span>
         </div>
 
         {/* Desktop Menu */}
