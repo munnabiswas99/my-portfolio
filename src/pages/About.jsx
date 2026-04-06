@@ -38,7 +38,7 @@ export default function About() {
           className="flex justify-center"
         >
           <img
-            src="/src/assets/images/munna0.JPG"
+            src="/public/images/munna0.JPG"
             alt="Munna Biswas"
             className="w-72 md:w-80 rounded-2xl shadow-xl"
           />
