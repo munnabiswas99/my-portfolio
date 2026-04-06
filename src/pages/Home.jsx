@@ -5,8 +5,7 @@ export default function Home() {
   return (
     <div>
       <Hero />
-      <section className="py-16 text-center">
-        <h2 className="text-3xl font-bold mb-6">Skills</h2>
+      <section className="py-4 text-center">
         <Skills />
       </section>
     </div>

@@ -67,19 +67,19 @@ export default function Contact() {
           <input
             type="text"
             placeholder="Your Name"
-            className="w-full border rounded-lg p-3 dark:bg-gray-900"
+            className="w-full border rounded-lg p-3 dark:bg-gray-900 placeholder-gray-500 dark:placeholder-gray-400"
           />
 
           <input
             type="email"
             placeholder="Your Email"
-            className="w-full border rounded-lg p-3 dark:bg-gray-900"
+            className="w-full border rounded-lg p-3 dark:bg-gray-900 placeholder-gray-500 dark:placeholder-gray-400"
           />
 
           <textarea
             rows="5"
             placeholder="Your Message"
-            className="w-full border rounded-lg p-3 dark:bg-gray-900"
+            className="w-full border rounded-lg p-3 dark:bg-gray-900 placeholder-gray-500 dark:placeholder-gray-400"
           />
 
           <button

@@ -68,7 +68,7 @@ export default function Hero() {
             </Link>
 
             <a
-              href="/Munna-Biswas-CV.pdf"
+              href="/Munna Biswas Frontend Developer CV.pdf"
               className="border px-6 py-3 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition"
             >
               Download CV
