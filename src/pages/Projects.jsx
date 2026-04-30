@@ -55,6 +55,19 @@ export default function Projects() {
       live: "https://munnabiswas99.github.io/PH_Tube-API-Data-Manupulation-/",
       client: "https://github.com/munnabiswas99/PH_Tube-API-Data-Manupulation-",
     },
+    {
+      title: "RFID-based Automatic Door Lock System using ESP8266 and Blynk",
+      desc: "Within this system framework we have formulated and designed an IoT based smart door lock solution by incorporating RFID authentication, servo motor control, logging online on the cloud and mobile-based tracking to achieve secure and efficient access management. ",
+      image: "/images/projectThumbnails/rfid.png",
+      features: [
+        "RFID authentication",
+        "servo motor control",
+        "logging online on the cloud and mobile-based tracking",
+        "Automatic entry on google sheet",
+      ],
+      live: "https://drive.google.com/file/d/1t-dCZQ4oWmiKHTf3h-NbQDT9buaIg8ri/view?usp=drive_link",
+      client: "https://github.com/munnabiswas99/RFID_Door_Lock",
+    },
   ];
 
   return (
