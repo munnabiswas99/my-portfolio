@@ -56,7 +56,7 @@ export default function ProjectCard({ project }) {
               rel="noreferrer"
               className="px-4 py-1.5 text-sm border rounded-md hover:bg-gray-100 dark:hover:bg-gray-800 transition"
             >
-              Client Code
+              Source Code
             </a>
           )}
 

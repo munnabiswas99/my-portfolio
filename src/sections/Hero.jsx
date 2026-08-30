@@ -5,7 +5,6 @@ export default function Hero() {
   return (
     <section className="min-h-[90vh] flex items-center px-6">
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 items-center">
-
         {/* LEFT CONTENT */}
         <div>
           <motion.h1
@@ -14,10 +13,7 @@ export default function Hero() {
             transition={{ duration: 0.6 }}
             className="text-4xl sm:text-5xl md:text-6xl font-bold mb-4"
           >
-            Hi, I'm{" "}
-            <span className="text-blue-600">
-              Munna Biswas
-            </span>
+            Hi, I'm <span className="text-blue-600">Munna Biswas</span>
           </motion.h1>
 
           <motion.h2
@@ -35,10 +31,10 @@ export default function Hero() {
             transition={{ delay: 0.3 }}
             className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed"
           >
-            I build modern, scalable and responsive web applications using
-            the MERN stack (MongoDB, Express, React, Node.js). I enjoy turning
-            ideas into real products with clean UI, efficient APIs, and
-            optimized performance.
+            I’m a Full Stack Web Developer passionate about building practical,
+            scalable, and user-focused web applications. I’m constantly
+            learning, solving problems, and growing toward becoming a better
+            software engineer.
           </motion.p>
 
           {/* Tech stack */}
@@ -89,7 +85,6 @@ export default function Hero() {
             className="w-72 md:w-80 rounded-full shadow-xl border-4 border-white"
           />
         </motion.div>
-
       </div>
     </section>
   );

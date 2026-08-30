@@ -3,6 +3,47 @@ import ProjectCard from "../sections/ProjectCard";
 export default function Projects() {
   const projects = [
     {
+      title: "CMS Platform (sumansubhan.com)",
+      desc: "A production content publishing platform built for a client to manage and share poems, articles, songs, books, photos, and other creative content.",
+      image: "/images/projectThumbnails/sumanSubhan.png",
+      features: [
+        "Admin dashboard with authentication and content management",
+        "Book, article, song, poem, album, and photo management",
+        "MongoDB Atlas and Cloudinary integration",
+        "Deployed and managed on a Linux VPS",
+      ],
+      live: "https://sumansubhan.com/",
+      client: "https://github.com/sumonsubhan/suman-subhan"
+    },
+
+    {
+      title: "BD Telecom Icons",
+      desc: "An open-source React icon library featuring reusable icons for Bangladeshi telecom operators.",
+      image: "/images/projectThumbnails/bdTelecomIcons.png",
+      features: [
+        "Reusable React components built from SVG assets",
+        "Customizable size, color, className, and SVG props",
+        "Tree-shaking support for optimized integration",
+        "Published on npm with 290+ monthly downloads",
+      ],
+      live: "https://www.npmjs.com/package/bd-telecom-icons",
+      client: "https://github.com/munnabiswas99/bd-telecom-icons",
+    },
+
+    {
+      title: "Personal Expense Tracker",
+      desc: "A full-stack personal finance application for managing income, expenses, and financial activities.",
+      image: "/images/projectThumbnails/expenseTracker.png",
+      features: [
+        "Income and expense tracking with CRUD operations",
+        "Secure authentication and protected routes",
+        "Transaction categorization and management",
+        "Interactive dashboard with financial summaries",
+      ],
+      live: "https://personal-expense-tracker-a4828.web.app/",
+      client: "https://github.com/munnabiswas99/munnabiswas99-web-development-bootcamp-may-2026/tree/main/munnabiswas99",
+    },
+    {
       title: "Job Portal",
       desc: "A modern job portal that connects job seekers with employers through a smooth and responsive experience.",
       image: "/images/projectThumbnails/jobPortal.png",

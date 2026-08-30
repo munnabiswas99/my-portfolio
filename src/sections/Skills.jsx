@@ -8,24 +8,30 @@ import {
   FaCss3Alt,
   FaFigma,
 } from "react-icons/fa";
+import { FiFramer } from "react-icons/fi";
+import { RiNextjsFill } from "react-icons/ri";
 import {
   SiJavascript,
   SiTailwindcss,
   SiMongodb,
   SiExpress,
   SiFirebase,
+  SiPostgresql,
 } from "react-icons/si";
 
 export default function Skills() {
   const skills = [
-    { name: "HTML5", icon: <FaHtml5 /> },
-    { name: "CSS3", icon: <FaCss3Alt /> },
-    { name: "JavaScript", icon: <SiJavascript /> },
+    { name: "Next.js", icon: <RiNextjsFill /> },
     { name: "React", icon: <FaReact /> },
-    { name: "Tailwind CSS", icon: <SiTailwindcss /> },
+    { name: "JavaScript", icon: <SiJavascript /> },
     { name: "Node.js", icon: <FaNodeJs /> },
     { name: "Express.js", icon: <SiExpress /> },
     { name: "MongoDB", icon: <SiMongodb /> },
+    { name: "PostgreSQL", icon: <SiPostgresql /> },
+    { name: "HTML5", icon: <FaHtml5 /> },
+    { name: "CSS3", icon: <FaCss3Alt /> },
+    { name: "Tailwind CSS", icon: <SiTailwindcss /> },
+    { name: "Framer Motion", icon: <FiFramer /> },
     { name: "Firebase", icon: <SiFirebase /> },
     { name: "Git", icon: <FaGitAlt /> },
     { name: "GitHub", icon: <FaGithub /> },
@@ -43,7 +49,7 @@ export default function Skills() {
 
         <p className="text-gray-600 dark:text-gray-400 max-w-xl mx-auto">
           Technologies and tools I use to build modern full-stack web
-          applications using the MERN stack.
+          applications.
         </p>
       </div>
 

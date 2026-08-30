@@ -18,7 +18,6 @@ export default function About() {
 
   return (
     <section className="max-w-6xl mx-auto px-6 py-20">
-
       {/* Title */}
       <motion.h1
         initial={{ opacity: 0 }}
@@ -29,7 +28,6 @@ export default function About() {
       </motion.h1>
 
       <div className="grid md:grid-cols-2 gap-12 items-center">
-
         {/* LEFT IMAGE */}
         <motion.div
           initial={{ opacity: 0, x: -40 }}
@@ -50,35 +48,38 @@ export default function About() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.6 }}
         >
-          <h2 className="text-2xl font-semibold mb-4">
-            MERN Stack Developer
-          </h2>
+          <h2 className="text-2xl font-semibold mb-4">MERN Stack Developer</h2>
 
-          <p className="text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
-            Hi, I'm <span className="font-semibold">Munna Biswas</span>, a
-            passionate MERN stack developer from Dhaka, Bangladesh. I enjoy
-            building modern, responsive, and scalable web applications using
-            technologies like React, Node.js, Express, and MongoDB.
+          <p className="text-gray-600 dark:text-gray-300 mb-4 leading-relaxed text-justify">
+            Hi, I'm <span className="font-semibold">Munna Biswas</span>, Full
+            Stack Web Developer passionate about turning ideas into practical,
+            user-friendly web applications. I enjoy working across the
+            stack—from building responsive interfaces to developing APIs,
+            managing databases, and deploying applications to production.
+            Currently, I’m working as a Contractual Web Developer at UCSI
+            University Bangladesh Branch Campus, while continuing to improve my
+            skills through real-world projects and problem-solving.
           </p>
 
-          <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
-            I focus on writing clean code, designing intuitive user interfaces,
-            and creating efficient backend APIs. I enjoy learning new
-            technologies and continuously improving my development skills
-            through real-world projects.
+          <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed text-justify">
+            I’m particularly interested in Next.js, React, JavaScript, Node.js,
+            MongoDB, and modern web technologies. I enjoy learning how systems
+            work, experimenting with new technologies, and building products
+            that solve real problems. My long-term goal is to grow into a highly
+            skilled Software Engineer capable of designing scalable systems and
+            building impactful products..
           </p>
 
           {/* Education */}
           <div className="mb-6">
             <h3 className="font-semibold mb-2">Education</h3>
             <p className="text-gray-600 dark:text-gray-300">
-              BSc in Computer Science & Engineering  
+              BSc in Computer Science & Engineering
               <br />
               Daffodil International University (2022 - 2025)
             </p>
           </div>
         </motion.div>
-
       </div>
 
       {/* Skills Section */}
@@ -103,7 +104,6 @@ export default function About() {
           ))}
         </div>
       </motion.div>
-
     </section>
   );
 }
